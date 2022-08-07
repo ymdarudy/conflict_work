@@ -4,12 +4,12 @@
 3 コンフリクトするのは楽しい hoge
 5 hoge
 6 hoge
-7 hoge
+7 hoge1
 9 hoge
 11 hoge
 10 hogeさいど
 11 hoge
-12 hoge
+12 hoge12
 13 hoge
-14 hogeやってみた
-15 hoge
+14 hoge1
+15 hoge1
