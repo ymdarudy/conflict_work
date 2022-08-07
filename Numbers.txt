@@ -7,9 +7,9 @@
 7 hoge1
 9 hoge
 11 hoge
-10 hogeさいど！
+10 hoge
 11 hoge
-12 hoge12!
+12 hoge
 13 hoge1
 14 hoge1
 15 hoge11!
