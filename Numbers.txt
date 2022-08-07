@@ -9,7 +9,7 @@
 11 hoge
 10 hogeさいど！
 11 hoge
-12 hoge12
+12 hoge
 13 hoge1
 14 hoge1
 15 hoge11
