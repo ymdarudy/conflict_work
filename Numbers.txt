@@ -1,4 +1,4 @@
-1 今日はgit道場に参加してる  hoge
+1 今日はgit道場に参加してるZ  hoge
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
 3 コンフリクトするのは楽しい! hoge
@@ -7,7 +7,7 @@
 7 hoge1
 9 hoge
 11 hoge
-10 hogeさいど
+10 hogeさいど！
 11 hoge
 12 hoge12
 13 hoge1
