@@ -1,6 +1,6 @@
 1 今日はgit道場に参加してる!  hoge
 2 どんな編集をしたらいいかわからないが! hoge
-4 hoge!Z
+4 hoge!
 3 コンフリクトするのは楽しい! hoge
 5 hogeZ
 6 hoge
