@@ -4,13 +4,13 @@
 3 コンフリクトするのは怖い
 5 hoge
 6 aaaa
-7 hoge
+7 hoge なんでやねん
 9 qqqq
 11 aaaa10 hoge
-11 hogehoge
+11 hogehoge　あかんがな
 12 コーヒーうまい
 13 hoge
-14 aaaa
+14 aaaa　でんがな
 15 qqqq
 16 nakamura参加
 17 123456
