@@ -7,7 +7,7 @@
 7 オミクロン
 9 qqqq
 11 aaaa10 hoge
-11 hogehoge
+11 hogehoge　あかんがな
 12 コーヒーうまい
 13 コロナ
 14 aaaa
