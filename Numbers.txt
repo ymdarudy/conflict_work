@@ -1,15 +1,14 @@
 1 今日はgit道場に参加してるよ！
-2 どんな編集をしたらいいかわからない hoge
+2 どんな編集をしたらいいかわからない ですよね〜
 4 hoge
-3 コンフリクトするのは怖い
-5 hoge
+3 コンフリクトするのは怖いよ〜〜〜〜
 6 hoge
 7 hoge
 9 hoge
 11 hoge
 10 hoge
-11 hoge
+11 111111111111
 12 hoge
-13 hoge
-14 hoge
+13 なし
+14 kanekodesu
 15 fuga
