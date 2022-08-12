@@ -1,10 +1,10 @@
-1 今日はgit道場に参加してるよ！
-2 どんな編集をしたらいいかわからない hoge
+1 今日はgit道場に参加してるよ！hogehoge
+2 どんな編集をしたらいいかわからない!
 4 hoge
 3 コンフリクトするのは怖い
 5 hogehoge
 6 hoge
-7 hoge
+7 fuga
 9 hoge
 11 hogeeeeeeee
 15 fugafuga
