@@ -2,10 +2,10 @@
 2 どんな編集をしたらいいかわからない!
 4 hoge
 3 コンフリクトするのは怖い
-5 hoge
+5 hogehoge
 6 hoge
 7 fuga
 9 hoge
-13 hoge
-14 hoge
-15 fuga
+11 hogeeeeeeee
+15 fugafuga
+16 足してみた
