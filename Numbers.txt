@@ -7,10 +7,5 @@
 7 hoge
 9 hoge
 11 hogeeeeeeee
-10 hoge
-11 hoge
-12 hoge
-13 hoge
-14 hoge
 15 fugafuga
 16 足してみた
