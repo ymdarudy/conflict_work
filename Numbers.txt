@@ -6,10 +6,6 @@
 6 hoge
 7 fuga
 9 hoge
-11 hoge
-10 hoge
-11 hoge
-12 hoge
 13 hoge
 14 hoge
 15 fuga
